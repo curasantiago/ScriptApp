@@ -19,7 +19,8 @@ Dentro del documento de texto van a encontrar los siguientes datos: ID del item,
 
 B) Levantando el servidor e ingresando a una URL específica.
 - Escribir en la terminal 'npm start'. Una vez ingresado el comando, ingresar a 'http://localhost:3000/api/seller/[id del seller que se está buscando]'.
-Por ejemplo: 'http://localhost:3000/api/seller/179571326' . El servidor va a responder en formato JSON a la URL ingresada.
+Por ejemplo: 'http://localhost:3000/api/seller/179571326' . El servidor va a responder en formato JSON a la URL ingresada. Igualmente va a generar un documento de texto
+el cual va a seguir el mismo formato mencionado.
 
 Cabe destacar que el ID es un parametro. Pueden ingresar otro ID y van a obtener otro vendedor.
 Pueden hacerlo de la forma que ustedes deseen. 
@@ -41,5 +42,7 @@ El segundo pedido es a un ENDPOINT de categorias, el cual hay que completarlo ut
 
 La lógica que utilice fue obtener todos los datos de los items y guardarlo en un array de objetos. Luego iterarlo, y completar el ID del endpoint de categorias, con cada ID
 del array.
+
+El documento de texto generado por el script es 'seller179571326.txt'.
 
 Espero que lo disfruten!
