@@ -11,7 +11,6 @@ var apiRouter = require('./api/routes/index'); //Api router
 var app = express();
 
 // view engine setup
-app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
 app.use(logger('dev'));
@@ -41,6 +40,6 @@ app.use(function(err, req, res, next) {
 
 if (process.argv[2] != undefined) {
   scriptResponse();
-}
+} //En caso de que haya un argumento de ID, se va a ejecutar la función.
 
 module.exports = app;

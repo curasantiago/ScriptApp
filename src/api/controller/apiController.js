@@ -4,7 +4,7 @@ const fs = require('fs')
 
 module.exports = {
     getItems: async (req, res) => {
-        res.locals.sellerID = req.params.id
+        
         let itemsOfSeller = await sellerResource.getItems(req.params.id); //Obtengo todos los items del vendedor atraves del id ingresado en la url
 
         const getCategory = async (id) => {
