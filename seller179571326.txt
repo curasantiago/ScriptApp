@@ -72,14 +72,14 @@
     "item_category_name": "PC"
   },
   {
-    "item_id": "MLA679000346",
-    "item_title": "Ups Apc 800va 4t Estabilizador Y Protector De Tension Gtia Oficial 2 Años Simil Ideal Para Uso Gamer",
+    "item_id": "MLA625205834",
+    "item_title": "Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio",
     "item_category_id": "MLA1720",
     "item_category_name": "UPS"
   },
   {
-    "item_id": "MLA625205834",
-    "item_title": "Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio",
+    "item_id": "MLA679000346",
+    "item_title": "Ups Apc 800va 4t Estabilizador Y Protector De Tension Gtia Oficial 2 Años Simil Ideal Para Uso Gamer",
     "item_category_id": "MLA1720",
     "item_category_name": "UPS"
   },
@@ -90,10 +90,10 @@
     "item_category_name": "PC"
   },
   {
-    "item_id": "MLA837839027",
-    "item_title": "Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce",
-    "item_category_id": "MLA1652",
-    "item_category_name": "Notebooks"
+    "item_id": "MLA839086917",
+    "item_title": "Router Linksys Ea8300 Tri Band Wifi Ac2200 Mu-mino Oferta",
+    "item_category_id": "MLA430901",
+    "item_category_name": "Routers"
   },
   {
     "item_id": "MLA685442693",
@@ -102,10 +102,16 @@
     "item_category_name": "Switches"
   },
   {
-    "item_id": "MLA896718634",
-    "item_title": "Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia",
+    "item_id": "MLA910712440",
+    "item_title": "Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial",
     "item_category_id": "MLA1649",
     "item_category_name": "PC"
+  },
+  {
+    "item_id": "MLA837839027",
+    "item_title": "Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce",
+    "item_category_id": "MLA1652",
+    "item_category_name": "Notebooks"
   },
   {
     "item_id": "MLA619999038",
@@ -114,8 +120,8 @@
     "item_category_name": "UPS"
   },
   {
-    "item_id": "MLA862050665",
-    "item_title": "Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas",
+    "item_id": "MLA896718634",
+    "item_title": "Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia",
     "item_category_id": "MLA1649",
     "item_category_name": "PC"
   },
@@ -126,8 +132,8 @@
     "item_category_name": "UPS"
   },
   {
-    "item_id": "MLA814217735",
-    "item_title": "Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130",
+    "item_id": "MLA862050665",
+    "item_title": "Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas",
     "item_category_id": "MLA1649",
     "item_category_name": "PC"
   },
@@ -144,10 +150,10 @@
     "item_category_name": "UPS"
   },
   {
-    "item_id": "MLA678026676",
-    "item_title": "Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B",
-    "item_category_id": "MLA1708",
-    "item_category_name": "Switches"
+    "item_id": "MLA814217735",
+    "item_title": "Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130",
+    "item_category_id": "MLA1649",
+    "item_category_name": "PC"
   },
   {
     "item_id": "MLA614270244",
@@ -156,10 +162,22 @@
     "item_category_name": "UPS"
   },
   {
+    "item_id": "MLA678026676",
+    "item_title": "Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B",
+    "item_category_id": "MLA1708",
+    "item_category_name": "Switches"
+  },
+  {
     "item_id": "MLA910713865",
     "item_title": "Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial",
     "item_category_id": "MLA1649",
     "item_category_name": "PC"
+  },
+  {
+    "item_id": "MLA673321805",
+    "item_title": "Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años",
+    "item_category_id": "MLA1720",
+    "item_category_name": "UPS"
   },
   {
     "item_id": "MLA800415301",
@@ -170,12 +188,6 @@
   {
     "item_id": "MLA696009826",
     "item_title": "Ups Apc 1000va Online Tower Gtia 2 Años",
-    "item_category_id": "MLA1720",
-    "item_category_name": "UPS"
-  },
-  {
-    "item_id": "MLA673321805",
-    "item_title": "Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años",
     "item_category_id": "MLA1720",
     "item_category_name": "UPS"
   },
@@ -192,22 +204,10 @@
     "item_category_name": "Switches"
   },
   {
-    "item_id": "MLA910712440",
-    "item_title": "Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial",
-    "item_category_id": "MLA1649",
-    "item_category_name": "PC"
-  },
-  {
     "item_id": "MLA675284743",
     "item_title": "Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb",
     "item_category_id": "MLA430901",
     "item_category_name": "Routers"
-  },
-  {
-    "item_id": "MLA614270271",
-    "item_title": "Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia",
-    "item_category_id": "MLA1720",
-    "item_category_name": "UPS"
   },
   {
     "item_id": "MLA835614791",
@@ -216,10 +216,10 @@
     "item_category_name": "Switches"
   },
   {
-    "item_id": "MLA663213659",
-    "item_title": "Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B",
-    "item_category_id": "MLA1652",
-    "item_category_name": "Notebooks"
+    "item_id": "MLA614270271",
+    "item_title": "Estabilizador Ups Apc 900va Con Garantia Oficial Para Tv, Play, Equipos De Audio Y Pc Con Ahorro De Energia",
+    "item_category_id": "MLA1720",
+    "item_category_name": "UPS"
   },
   {
     "item_id": "MLA835811366",
@@ -232,6 +232,12 @@
     "item_title": "Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin",
     "item_category_id": "MLA1708",
     "item_category_name": "Switches"
+  },
+  {
+    "item_id": "MLA663213659",
+    "item_title": "Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B",
+    "item_category_id": "MLA1652",
+    "item_category_name": "Notebooks"
   },
   {
     "item_id": "MLA714578081",
@@ -256,6 +262,12 @@
     "item_title": "Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9",
     "item_category_id": "MLA1708",
     "item_category_name": "Switches"
+  },
+  {
+    "item_id": "MLA881142342",
+    "item_title": "Notebook Laptop Dell Vostro I5 20gb 1tb + 480ssd 14 Win",
+    "item_category_id": "MLA1652",
+    "item_category_name": "Notebooks"
   },
   {
     "item_id": "MLA903304030",
@@ -284,18 +296,6 @@
   {
     "item_id": "MLA714624323",
     "item_title": "Switch 24p Cisco Sg350-28 10/100/1000 Sg350-28-k9",
-    "item_category_id": "MLA1708",
-    "item_category_name": "Switches"
-  },
-  {
-    "item_id": "MLA692519735",
-    "item_title": "Switch Cisco Sf110d-05 5 Puertos 10/100 Sf110 (ex Sf100d-05)",
-    "item_category_id": "MLA1708",
-    "item_category_name": "Switches"
-  },
-  {
-    "item_id": "MLA835872727",
-    "item_title": "Switch Cisco Sf220-24p Adm 24 Puertos Poe + 2 Giga + 2 Sfp",
     "item_category_id": "MLA1708",
     "item_category_name": "Switches"
   }

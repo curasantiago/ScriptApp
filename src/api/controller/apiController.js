@@ -8,8 +8,13 @@ module.exports = {
         let itemsOfSeller = await sellerResource.getItems(req.params.id); //Obtengo todos los items del vendedor atraves del id ingresado en la url
 
         const getCategory = async (id) => {
-            let result = await sellerResource.getCategoryOfItem(id);
-            return result.data.name
+            try {
+                let result = await sellerResource.getCategoryOfItem(id);
+                return result.data.name 
+
+            } catch(err) {
+                res.send(err)
+            }
         } //Creo una función asíncrona el cual, una vez ingresado el id del item, me devuelve el nombre del mismo.
     
      
