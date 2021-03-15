@@ -1,4 +1,4 @@
-Script App es un proyecto en el cual se pueden ver los items que ha vendido un seller de Mercado Libre.
+Script App es un proyecto en el cual se puede ver los items que ha vendido un seller de Mercado Libre.
 Lo que hace es consultar a la api de mercado libre 'https://api.mercadolibre.com/' (en https://developers.mercadolibre.com.ar/ hay mas información) respecto a la información
 de un vendedor en particular.
 
@@ -27,5 +27,7 @@ En Script App se utiliza el ID como parametro. Se puede utilizar otro ID para ob
 Por ejemplo:
 'npm start 451257294'
 'http://localhost:3000/api/seller/451257294'
+
+En 'seller179571326.txt' se encuentra el LOG del ID requerido.
 
 Espero que lo disfruten!
